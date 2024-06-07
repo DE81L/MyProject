@@ -1,0 +1,9 @@
+[
+  {
+    "PharmacyId": 1,
+    "DrugId": 1,
+    "ReleaseDate": "2004-01-12T00:00:00",
+    "Quantity": 1,
+    "Price": 1.0
+  }
+]
